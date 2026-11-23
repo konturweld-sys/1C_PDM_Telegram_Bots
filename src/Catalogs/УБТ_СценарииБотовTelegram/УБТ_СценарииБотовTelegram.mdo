@@ -309,7 +309,7 @@
         <value>Отчет</value>
       </synonym>
       <type>
-        <types>CatalogRef.ВариантыОтчетов</types>
+        <types>CatalogRef.ПДМ_УБТ_ВариантыОтчетов</types>
       </type>
       <minValue xsi:type="core:UndefinedValue"/>
       <maxValue xsi:type="core:UndefinedValue"/>
