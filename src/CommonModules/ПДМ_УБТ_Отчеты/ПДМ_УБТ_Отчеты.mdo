@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a17b0000-0000-4000-8000-0000000000c9"><name>ПДМ_УБТ_Отчеты</name><synonym><key>ru</key><value>ПДМ_УБТ_Отчеты</value></synonym><server>true</server><externalConnection>true</externalConnection></mdclass:CommonModule>

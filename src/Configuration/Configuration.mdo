@@ -32,14 +32,14 @@
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="ce11b3e8-47cc-43d5-8c29-9ad30f237b81"/>
   <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
   <namePrefix>УБТ_</namePrefix>
-  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <defaultRoles>Role.УБТ_АдминистраторБотовTelegram</defaultRoles>
   <vendor>Камран Велиев</vendor>
-  <version>0.18.0<!-- x-release-please-version --></version>
+  <version>0.19.0<!-- x-release-please-version --></version>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
   <languages uuid="296e4909-f7ad-4a22-a294-516d1b25c75e" extendedConfigurationObject="d0af2904-4c9f-4595-95c4-f0f4a6af908a">
@@ -103,7 +103,6 @@
   <commonPictures>CommonPicture.ЭлектронноеПисьмо</commonPictures>
   <roles>Role.УБТ_АдминистраторБотовTelegram</roles>
   <commonTemplates>CommonTemplate.УБТ_ИсходникиКонсолиКода</commonTemplates>
-  <commonModules>CommonModule.РаботаСПочтовымиСообщениямиВызовСервера</commonModules>
   <commonModules>CommonModule.УБТ_КонсольКодаВызовСервера</commonModules>
   <commonModules>CommonModule.УБТ_КонсольКодаКлиент</commonModules>
   <commonModules>CommonModule.УБТ_РаботаСJSON</commonModules>
@@ -111,20 +110,13 @@
   <commonModules>CommonModule.УБТ_РаботаСБотамиTelegramВызовСервера</commonModules>
   <commonModules>CommonModule.УБТ_УправлениеБотамиTelegramСлужебныйВызовСервера</commonModules>
   <commonModules>CommonModule.УБТ_УправлениеБотамиTelegramСлужебныйКлиент</commonModules>
-  <commonModules>CommonModule.УправлениеПечатьюПереопределяемый</commonModules>
   <httpServices>HTTPService.УБТ_TelegramWebhook</httpServices>
   <scheduledJobs>ScheduledJob.УБТ_ВзаимодействиеСБотамиTelegram</scheduledJobs>
   <scheduledJobs>ScheduledJob.УБТ_ИсполнениеСценариевTelegramБотов</scheduledJobs>
-  <commonForms>CommonForm.ПечатьДокументов</commonForms>
-  <commonForms>CommonForm.ФормаОтчета</commonForms>
-  <catalogs>Catalog.ВариантыОтчетов</catalogs>
-  <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.УБТ_БотыTelegram</catalogs>
   <catalogs>Catalog.УБТ_ОбщенияБотовTelegramСЧатами</catalogs>
   <catalogs>Catalog.УБТ_СценарииБотовTelegram</catalogs>
   <catalogs>Catalog.УБТ_ЧатыTelegram</catalogs>
-  <documents>Document.ЭлектронноеПисьмоИсходящее</documents>
-  <documentJournals>DocumentJournal.Взаимодействия</documentJournals>
   <enums>Enum.УБТ_ВариантыВзаимодействияСБотамиTelegram</enums>
   <enums>Enum.УБТ_ВидыЭлектронныхСообщений</enums>
   <enums>Enum.УБТ_ТипыСценариевБотовTelegram</enums>
@@ -133,4 +125,31 @@
   <informationRegisters>InformationRegister.УБТ_КомандыБотовTelegram</informationRegisters>
   <informationRegisters>InformationRegister.УБТ_ОбработанныеСообщенияБотовTelegram</informationRegisters>
   <informationRegisters>InformationRegister.УБТ_ОдноразовыеПаролиАвторизацииЧатовTelegram</informationRegisters>
+  <commonModules>CommonModule.ПДМ_УБТ_ОбщиеФункции</commonModules>
+  <commonModules>CommonModule.ПДМ_УБТ_РегламентныеЗадания</commonModules>
+  <commonModules>CommonModule.ПДМ_УБТ_ЗащищенноеХранилище</commonModules>
+  <commonModules>CommonModule.ПДМ_УБТ_Права</commonModules>
+  <commonModules>CommonModule.ПДМ_УБТ_Отчеты</commonModules>
+  <commonModules>CommonModule.ПДМ_УБТ_Email</commonModules>
+  <commonModules>CommonModule.ПДМ_УБТ_ПредставлениеОтчетов</commonModules>
+  <commonModules>CommonModule.ПДМ_УБТ_ОчередьСообщений</commonModules>
+  <dataProcessors>DataProcessor.ПДМ_УБТ_НастройкаВариантовОтчетов</dataProcessors>
+  <dataProcessors>DataProcessor.ПДМ_УБТ_УправлениеОчередьюСообщений</dataProcessors>
+  <dataProcessors>DataProcessor.ПДМ_УБТ_ПроверкаПодключенияTelegram</dataProcessors>
+  <commonForms>CommonForm.ПДМ_УБТ_ФормаОтправкиСообщения</commonForms>
+  <commonForms>CommonForm.ПДМ_УБТ_ФормаВыбораВариантаОтчета</commonForms>
+  <commonForms>CommonForm.ПДМ_УБТ_ФормаПросмотраРезультатаОтчета</commonForms>
+  <commonForms>CommonForm.ПДМ_УБТ_ФормаИсторииДоставки</commonForms>
+  <roles>Role.ПДМ_УБТ_АдминистраторКонсоли</roles>
+  <roles>Role.ПДМ_УБТ_ОператорСообщений</roles>
+  <scheduledJobs>ScheduledJob.ПДМ_УБТ_ОтправкаСообщений</scheduledJobs>
+  <catalogs>Catalog.ПДМ_УБТ_ВариантыОтчетов</catalogs>
+  <documents>Document.ПДМ_УБТ_Сообщения</documents>
+  <enums>Enum.ПДМ_УБТ_СтатусыСообщений</enums>
+  <enums>Enum.ПДМ_УБТ_СтатусыДоставки</enums>
+  <enums>Enum.ПДМ_УБТ_ФорматыФайлов</enums>
+  <enums>Enum.ПДМ_УБТ_ФорматыСообщений</enums>
+  <informationRegisters>InformationRegister.ПДМ_УБТ_ЗащищенныеДанныеБотов</informationRegisters>
+  <informationRegisters>InformationRegister.ПДМ_УБТ_ДоставкиСообщений</informationRegisters>
+  <informationRegisters>InformationRegister.ПДМ_УБТ_Настройки</informationRegisters>
 </mdclass:Configuration>
