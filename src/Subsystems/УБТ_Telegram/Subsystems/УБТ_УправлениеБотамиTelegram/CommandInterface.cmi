@@ -21,6 +21,8 @@
       <command>InformationRegister.УБТ_ОдноразовыеПаролиАвторизацииЧатовTelegram.StandardCommand.OpenList</command>
       <visible/>
     </visibilityFragments>
+      <visibilityFragments><command>Document.ПДМ_УБТ_Сообщения.StandardCommand.OpenList</command><visible/></visibilityFragments>
+    <visibilityFragments><command>InformationRegister.ПДМ_УБТ_ДоставкиСообщений.StandardCommand.OpenList</command><visible/></visibilityFragments>
   </commandsVisibility>
   <commandsOrder>
     <orderFragments>
@@ -33,6 +35,11 @@
       <commands>InformationRegister.УБТ_КомандыБотовTelegram.StandardCommand.OpenList</commands>
       <commands>InformationRegister.УБТ_ОбработанныеСообщенияБотовTelegram.StandardCommand.OpenList</commands>
       <commands>InformationRegister.УБТ_ОдноразовыеПаролиАвторизацииЧатовTelegram.StandardCommand.OpenList</commands>
+          <commands>Catalog.ПДМ_УБТ_ВариантыОтчетов.StandardCommand.OpenList</commands>
+      <commands>Document.ПДМ_УБТ_Сообщения.StandardCommand.OpenList</commands>
+      <commands>DataProcessor.ПДМ_УБТ_НастройкаВариантовОтчетов.StandardCommand.Open</commands>
+      <commands>DataProcessor.ПДМ_УБТ_УправлениеОчередьюСообщений.StandardCommand.Open</commands>
+      <commands>DataProcessor.ПДМ_УБТ_ПроверкаПодключенияTelegram.StandardCommand.Open</commands>
     </orderFragments>
   </commandsOrder>
 </cmi:CommandInterface>
