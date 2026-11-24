@@ -98,18 +98,15 @@
           </dataPath>
           <toolTip>
             <key>en</key>
-            <value>The token obtained when registering the bot in BotFather. 
-For example, 123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11</value>
+            <value>Enter the token obtained from BotFather. Leave this field blank to keep the currently saved token. The saved token is not displayed in this form.</value>
           </toolTip>
           <toolTip>
             <key>az</key>
-            <value>BotFather-də botu qeydiyyatdan keçirərkən alınan token.
-Məsələn, 123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11</value>
+            <value>BotFather-dən alınan tokeni daxil edin. Saxlanmış tokeni dəyişməmək üçün sahəni boş saxlayın. Saxlanmış token bu formada göstərilmir.</value>
           </toolTip>
           <toolTip>
             <key>ru</key>
-            <value>Токен, полученный при регистрации бота в BotFather.
-Например, 123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11</value>
+            <value>Введите токен, полученный в BotFather. Оставьте поле пустым, чтобы сохранить ранее заданный токен без изменений. Сохранённый токен в этой форме не отображается.</value>
           </toolTip>
           <toolTipRepresentation>ShowBottom</toolTipRepresentation>
           <extendedTooltip>
