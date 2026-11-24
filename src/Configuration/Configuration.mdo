@@ -34,7 +34,7 @@
   <namePrefix>УБТ_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
-  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <defaultRunMode>OrdinaryApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <defaultRoles>Role.УБТ_АдминистраторБотовTelegram</defaultRoles>
