@@ -131,26 +131,10 @@
   <commonModules>CommonModule.ПДМ_УБТ_ЗащищенноеХранилище</commonModules>
   <commonModules>CommonModule.ПДМ_УБТ_Права</commonModules>
   <commonModules>CommonModule.ПДМ_УБТ_Отчеты</commonModules>
-  <commonModules>CommonModule.ПДМ_УБТ_Email</commonModules>
-  <commonModules>CommonModule.ПДМ_УБТ_ПредставлениеОтчетов</commonModules>
-  <commonModules>CommonModule.ПДМ_УБТ_ОчередьСообщений</commonModules>
   <dataProcessors>DataProcessor.ПДМ_УБТ_НастройкаВариантовОтчетов</dataProcessors>
-  <dataProcessors>DataProcessor.ПДМ_УБТ_УправлениеОчередьюСообщений</dataProcessors>
-  <dataProcessors>DataProcessor.ПДМ_УБТ_ПроверкаПодключенияTelegram</dataProcessors>
-  <commonForms>CommonForm.ПДМ_УБТ_ФормаОтправкиСообщения</commonForms>
-  <commonForms>CommonForm.ПДМ_УБТ_ФормаВыбораВариантаОтчета</commonForms>
-  <commonForms>CommonForm.ПДМ_УБТ_ФормаПросмотраРезультатаОтчета</commonForms>
-  <commonForms>CommonForm.ПДМ_УБТ_ФормаИсторииДоставки</commonForms>
   <roles>Role.ПДМ_УБТ_АдминистраторКонсоли</roles>
-  <roles>Role.ПДМ_УБТ_ОператорСообщений</roles>
-  <scheduledJobs>ScheduledJob.ПДМ_УБТ_ОтправкаСообщений</scheduledJobs>
   <catalogs>Catalog.ПДМ_УБТ_ВариантыОтчетов</catalogs>
-  <documents>Document.ПДМ_УБТ_Сообщения</documents>
-  <enums>Enum.ПДМ_УБТ_СтатусыСообщений</enums>
-  <enums>Enum.ПДМ_УБТ_СтатусыДоставки</enums>
   <enums>Enum.ПДМ_УБТ_ФорматыФайлов</enums>
-  <enums>Enum.ПДМ_УБТ_ФорматыСообщений</enums>
   <informationRegisters>InformationRegister.ПДМ_УБТ_ЗащищенныеДанныеБотов</informationRegisters>
-  <informationRegisters>InformationRegister.ПДМ_УБТ_ДоставкиСообщений</informationRegisters>
   <informationRegisters>InformationRegister.ПДМ_УБТ_Настройки</informationRegisters>
 </mdclass:Configuration>

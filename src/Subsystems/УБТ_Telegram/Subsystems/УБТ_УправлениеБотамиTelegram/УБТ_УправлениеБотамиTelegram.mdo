@@ -25,9 +25,5 @@
   <content>Catalog.УБТ_ЧатыTelegram</content>
   <parentSubsystem>Subsystem.УБТ_Telegram</parentSubsystem>
   <content>Catalog.ПДМ_УБТ_ВариантыОтчетов</content>
-  <content>Document.ПДМ_УБТ_Сообщения</content>
-  <content>InformationRegister.ПДМ_УБТ_ДоставкиСообщений</content>
   <content>DataProcessor.ПДМ_УБТ_НастройкаВариантовОтчетов</content>
-  <content>DataProcessor.ПДМ_УБТ_УправлениеОчередьюСообщений</content>
-  <content>DataProcessor.ПДМ_УБТ_ПроверкаПодключенияTelegram</content>
 </mdclass:Subsystem>
