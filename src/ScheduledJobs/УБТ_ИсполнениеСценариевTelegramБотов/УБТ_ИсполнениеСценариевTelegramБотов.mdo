@@ -14,7 +14,7 @@
     <value>Telegram bot skriptlərin icrası</value>
   </synonym>
   <methodName>CommonModule.УБТ_РаботаСБотамиTelegram.УБТ_ИсполнениеСценариевTelegramБотов</methodName>
-  <use>false</use>
+  <use>true</use>
   <restartCountOnFailure>3</restartCountOnFailure>
   <restartIntervalOnFailure>10</restartIntervalOnFailure>
 </mdclass:ScheduledJob>
