@@ -14,7 +14,7 @@
     <value>Telegram botlar ilə əlaqə</value>
   </synonym>
   <methodName>CommonModule.УБТ_РаботаСБотамиTelegram.УБТ_ВзаимодействиеСБотамиTelegram</methodName>
-  <use>false</use>
+  <use>true</use>
   <restartCountOnFailure>3</restartCountOnFailure>
   <restartIntervalOnFailure>10</restartIntervalOnFailure>
 </mdclass:ScheduledJob>
