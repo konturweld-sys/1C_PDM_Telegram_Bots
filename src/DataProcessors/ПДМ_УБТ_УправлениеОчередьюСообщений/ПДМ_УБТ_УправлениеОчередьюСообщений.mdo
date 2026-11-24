@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b2d10000-0000-4000-8000-000000000239">
-  <producedTypes><objectType typeId="b2d10000-0000-4000-8000-00000000023a" valueTypeId="b2d10000-0000-4000-8000-00000000023b"/><refType typeId="b2d10000-0000-4000-8000-00000000023c" valueTypeId="b2d10000-0000-4000-8000-00000000023d"/><selectionType typeId="b2d10000-0000-4000-8000-00000000023e" valueTypeId="b2d10000-0000-4000-8000-00000000023f"/><listType typeId="b2d10000-0000-4000-8000-000000000240" valueTypeId="b2d10000-0000-4000-8000-000000000241"/><managerType typeId="b2d10000-0000-4000-8000-000000000242" valueTypeId="b2d10000-0000-4000-8000-000000000243"/></producedTypes>
-  <name>ПДМ_УБТ_УправлениеОчередьюСообщений</name><synonym><key>ru</key><value>ПДМ_УБТ_УправлениеОчередьюСообщений</value></synonym><useStandardCommands>true</useStandardCommands>
-  <forms uuid="b2d10000-0000-4000-8000-000000000244"><name>Форма</name><synonym><key>ru</key><value>Форма</value></synonym><usePurposes>PersonalComputer</usePurposes></forms>
-  <defaultForm>DataProcessor.ПДМ_УБТ_УправлениеОчередьюСообщений.Form.Форма</defaultForm>
-</mdclass:DataProcessor>

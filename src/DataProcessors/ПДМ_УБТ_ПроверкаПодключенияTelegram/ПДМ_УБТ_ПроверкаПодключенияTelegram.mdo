@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b2d10000-0000-4000-8000-000000000245">
-  <producedTypes><objectType typeId="b2d10000-0000-4000-8000-000000000246" valueTypeId="b2d10000-0000-4000-8000-000000000247"/><refType typeId="b2d10000-0000-4000-8000-000000000248" valueTypeId="b2d10000-0000-4000-8000-000000000249"/><selectionType typeId="b2d10000-0000-4000-8000-00000000024a" valueTypeId="b2d10000-0000-4000-8000-00000000024b"/><listType typeId="b2d10000-0000-4000-8000-00000000024c" valueTypeId="b2d10000-0000-4000-8000-00000000024d"/><managerType typeId="b2d10000-0000-4000-8000-00000000024e" valueTypeId="b2d10000-0000-4000-8000-00000000024f"/></producedTypes>
-  <name>ПДМ_УБТ_ПроверкаПодключенияTelegram</name><synonym><key>ru</key><value>ПДМ_УБТ_ПроверкаПодключенияTelegram</value></synonym><useStandardCommands>true</useStandardCommands>
-  <forms uuid="b2d10000-0000-4000-8000-000000000250"><name>Форма</name><synonym><key>ru</key><value>Форма</value></synonym><usePurposes>PersonalComputer</usePurposes></forms>
-  <defaultForm>DataProcessor.ПДМ_УБТ_ПроверкаПодключенияTelegram.Form.Форма</defaultForm>
-</mdclass:DataProcessor>
