@@ -83,6 +83,7 @@
 			<HTTPService>УБТ_TelegramWebhook</HTTPService>
 			<ScheduledJob>УБТ_ВзаимодействиеСБотамиTelegram</ScheduledJob>
 			<ScheduledJob>УБТ_ИсполнениеСценариевTelegramБотов</ScheduledJob>
+			<Catalog>ВариантыОтчетов</Catalog>
 			<Catalog>Пользователи</Catalog>
 			<Catalog>УБТ_БотыTelegram</Catalog>
 			<Catalog>УБТ_ОбщенияБотовTelegramСЧатами</Catalog>
