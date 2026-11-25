@@ -30,19 +30,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Language>Английский</Language>
-			<Language>Азербайджанский</Language>
 			<Subsystem>УБТ_Telegram</Subsystem>
-			<StyleItem>ВажнаяНадписьШрифт</StyleItem>
-			<StyleItem>ИтогиФонГруппы</StyleItem>
-			<CommonPicture>ВажностьНеЗадана</CommonPicture>
-			<CommonPicture>ВыбратьВариантОтчета</CommonPicture>
-			<CommonPicture>Информация32</CommonPicture>
-			<CommonPicture>КоллекцияПиктограммФайлов</CommonPicture>
-			<CommonPicture>ОтменитьДействие</CommonPicture>
-			<CommonPicture>ПовторитьДействие</CommonPicture>
-			<CommonPicture>Предупреждение</CommonPicture>
-			<CommonPicture>СохранитьКак</CommonPicture>
-			<CommonPicture>Сумма</CommonPicture>
 			<CommonPicture>УБТ_Telegram</CommonPicture>
 			<CommonPicture>УБТ_Telegram16</CommonPicture>
 			<CommonPicture>УБТ_Авторизация</CommonPicture>
@@ -61,8 +49,6 @@
 			<CommonPicture>УБТ_Сценарий</CommonPicture>
 			<CommonPicture>УБТ_УдалитьКоманды</CommonPicture>
 			<CommonPicture>УБТ_УстановитьКоманды</CommonPicture>
-			<CommonPicture>Успешно32</CommonPicture>
-			<CommonPicture>ЭлектронноеПисьмо</CommonPicture>
 			<Role>УБТ_АдминистраторБотовTelegram</Role>
 			<Role>ПДМ_УБТ_АдминистраторКонсоли</Role>
 			<CommonTemplate>УБТ_ИсходникиКонсолиКода</CommonTemplate>
