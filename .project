@@ -3,6 +3,7 @@
 	<name>УправлениеБотамиTelegram</name>
 	<comment></comment>
 	<projects>
+		<project>УправлениеИнженернымиДанными3</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
