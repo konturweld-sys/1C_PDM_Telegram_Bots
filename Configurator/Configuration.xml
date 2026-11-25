@@ -29,7 +29,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Language>Английский</Language>
+			<Language>English</Language>
 			<Subsystem>УБТ_Telegram</Subsystem>
 			<CommonPicture>УБТ_Telegram</CommonPicture>
 			<CommonPicture>УБТ_Telegram16</CommonPicture>

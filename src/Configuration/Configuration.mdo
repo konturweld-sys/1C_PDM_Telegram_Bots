@@ -43,7 +43,7 @@
   <defaultLanguage>Language.Русский</defaultLanguage>
   <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
   <languages uuid="54216fd5-666b-47be-a106-75b0a54d0adc" extendedConfigurationObject="98d46144-d893-4c82-8cb8-e04c2e743904">
-    <name>Английский</name>
+    <name>English</name>
     <objectBelonging>Adopted</objectBelonging>
     <extension xsi:type="mdclassExtension:LanguageExtension">
       <extendedConfigurationObject>Checked</extendedConfigurationObject>
