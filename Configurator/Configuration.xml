@@ -66,7 +66,6 @@
 			<Role>УБТ_АдминистраторБотовTelegram</Role>
 			<Role>ПДМ_УБТ_АдминистраторКонсоли</Role>
 			<CommonTemplate>УБТ_ИсходникиКонсолиКода</CommonTemplate>
-			<CommonForm>ФормаОтчета</CommonForm>
 			<CommonModule>УБТ_КонсольКодаВызовСервера</CommonModule>
 			<CommonModule>УБТ_КонсольКодаКлиент</CommonModule>
 			<CommonModule>УБТ_РаботаСJSON</CommonModule>
@@ -79,11 +78,9 @@
 			<CommonModule>ПДМ_УБТ_ЗащищенноеХранилище</CommonModule>
 			<CommonModule>ПДМ_УБТ_Права</CommonModule>
 			<CommonModule>ПДМ_УБТ_Отчеты</CommonModule>
-			<CommonModule>УправлениеПечатьюПереопределяемый</CommonModule>
 			<HTTPService>УБТ_TelegramWebhook</HTTPService>
 			<ScheduledJob>УБТ_ВзаимодействиеСБотамиTelegram</ScheduledJob>
 			<ScheduledJob>УБТ_ИсполнениеСценариевTelegramБотов</ScheduledJob>
-			<Catalog>ВариантыОтчетов</Catalog>
 			<Catalog>Пользователи</Catalog>
 			<Catalog>УБТ_БотыTelegram</Catalog>
 			<Catalog>УБТ_ОбщенияБотовTelegramСЧатами</Catalog>
