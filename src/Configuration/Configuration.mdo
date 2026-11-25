@@ -109,7 +109,6 @@
   <commonModules>CommonModule.ПДМ_УБТ_ЗащищенноеХранилище</commonModules>
   <commonModules>CommonModule.ПДМ_УБТ_Права</commonModules>
   <commonModules>CommonModule.ПДМ_УБТ_Отчеты</commonModules>
-  <dataProcessors>DataProcessor.ПДМ_УБТ_НастройкаВариантовОтчетов</dataProcessors>
   <roles>Role.ПДМ_УБТ_АдминистраторКонсоли</roles>
   <catalogs>Catalog.ПДМ_УБТ_ВариантыОтчетов</catalogs>
   <enums>Enum.ПДМ_УБТ_ФорматыФайлов</enums>
