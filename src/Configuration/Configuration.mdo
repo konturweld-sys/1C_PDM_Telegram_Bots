@@ -42,16 +42,7 @@
   <version>0.19.0<!-- x-release-please-version --></version>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
-  <languages uuid="296e4909-f7ad-4a22-a294-516d1b25c75e" extendedConfigurationObject="d0af2904-4c9f-4595-95c4-f0f4a6af908a">
-    <name>Азербайджанский</name>
-    <objectBelonging>Adopted</objectBelonging>
-    <extension xsi:type="mdclassExtension:LanguageExtension">
-      <extendedConfigurationObject>Checked</extendedConfigurationObject>
-      <languageCode>Checked</languageCode>
-    </extension>
-    <languageCode>az</languageCode>
-  </languages>
-  <languages uuid="54216fd5-666b-47be-a106-75b0a54d0adc" extendedConfigurationObject="32081da5-2cbf-4093-9342-47f6ed851d2c">
+  <languages uuid="54216fd5-666b-47be-a106-75b0a54d0adc" extendedConfigurationObject="98d46144-d893-4c82-8cb8-e04c2e743904">
     <name>Английский</name>
     <objectBelonging>Adopted</objectBelonging>
     <extension xsi:type="mdclassExtension:LanguageExtension">
@@ -60,7 +51,7 @@
     </extension>
     <languageCode>en</languageCode>
   </languages>
-  <languages uuid="fb149282-a93c-42fd-8cd1-3ab6fdfcaf8f" extendedConfigurationObject="0663bf5b-bcba-4a40-a862-a0b3baa2d884">
+  <languages uuid="fb149282-a93c-42fd-8cd1-3ab6fdfcaf8f" extendedConfigurationObject="490a57f3-9c90-4de4-94d5-7251e2eefff7">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
     <extension xsi:type="mdclassExtension:LanguageExtension">
@@ -70,17 +61,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.УБТ_Telegram</subsystems>
-  <styleItems>StyleItem.ВажнаяНадписьШрифт</styleItems>
-  <styleItems>StyleItem.ИтогиФонГруппы</styleItems>
-  <commonPictures>CommonPicture.ВажностьНеЗадана</commonPictures>
-  <commonPictures>CommonPicture.ВыбратьВариантОтчета</commonPictures>
-  <commonPictures>CommonPicture.Информация32</commonPictures>
-  <commonPictures>CommonPicture.КоллекцияПиктограммФайлов</commonPictures>
-  <commonPictures>CommonPicture.ОтменитьДействие</commonPictures>
-  <commonPictures>CommonPicture.ПовторитьДействие</commonPictures>
-  <commonPictures>CommonPicture.Предупреждение</commonPictures>
-  <commonPictures>CommonPicture.СохранитьКак</commonPictures>
-  <commonPictures>CommonPicture.Сумма</commonPictures>
   <commonPictures>CommonPicture.УБТ_Telegram</commonPictures>
   <commonPictures>CommonPicture.УБТ_Telegram16</commonPictures>
   <commonPictures>CommonPicture.УБТ_Авторизация</commonPictures>
@@ -99,8 +79,6 @@
   <commonPictures>CommonPicture.УБТ_Сценарий</commonPictures>
   <commonPictures>CommonPicture.УБТ_УдалитьКоманды</commonPictures>
   <commonPictures>CommonPicture.УБТ_УстановитьКоманды</commonPictures>
-  <commonPictures>CommonPicture.Успешно32</commonPictures>
-  <commonPictures>CommonPicture.ЭлектронноеПисьмо</commonPictures>
   <roles>Role.УБТ_АдминистраторБотовTelegram</roles>
   <commonTemplates>CommonTemplate.УБТ_ИсходникиКонсолиКода</commonTemplates>
   <commonModules>CommonModule.УБТ_КонсольКодаВызовСервера</commonModules>
