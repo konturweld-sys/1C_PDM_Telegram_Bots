@@ -7,7 +7,7 @@
   </synonym>
   <synonym>
     <key>en</key>
-    <value>Telegran bot management</value>
+    <value>Telegram bot management</value>
   </synonym>
   <synonym>
     <key>ru</key>
@@ -18,10 +18,10 @@
     <defaultRunMode>Checked</defaultRunMode>
     <usePurposes>Checked</usePurposes>
     <managedApplicationModule>Extended</managedApplicationModule>
-    <sessionModule>Extended</sessionModule>
+    <sessionModule>Unchecked</sessionModule>
     <defaultLanguage>Checked</defaultLanguage>
     <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
-    <defaultRoles>Extended</defaultRoles>
+    <defaultRoles>Unchecked</defaultRoles>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="d5979bbd-3be4-499b-8168-ea80b246d1ea"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="1396d35f-d60f-426b-9c52-32fe8c9b185f"/>
@@ -37,7 +37,6 @@
   <defaultRunMode>OrdinaryApplication</defaultRunMode>
   <usePurposes>PlatformApplication</usePurposes>
   <scriptVariant>Russian</scriptVariant>
-  <defaultRoles>Role.УБТ_АдминистраторБотовTelegram</defaultRoles>
   <vendor>Камран Велиев</vendor>
   <version>0.19.0<!-- x-release-please-version --></version>
   <defaultLanguage>Language.Русский</defaultLanguage>
