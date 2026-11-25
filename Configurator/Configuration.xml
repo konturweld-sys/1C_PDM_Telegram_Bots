@@ -23,7 +23,7 @@
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>Камран Велиев</Vendor>
 			<Version>0.19.0</Version>
-			<DefaultLanguage>Language.Русский</DefaultLanguage>
+			<DefaultLanguage>Language.Русский</DefaultLanguage><DefaultRoles>Role.УБТ_АдминистраторБотовTelegram</DefaultRoles>
 			<InterfaceCompatibilityMode>Version8_2</InterfaceCompatibilityMode>
 			<CompatibilityMode>Version8_3_12</CompatibilityMode>
 		</Properties>
