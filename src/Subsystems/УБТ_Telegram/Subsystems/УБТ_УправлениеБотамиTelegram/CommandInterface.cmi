@@ -33,8 +33,8 @@
       <commands>InformationRegister.УБТ_КомандыБотовTelegram.StandardCommand.OpenList</commands>
       <commands>InformationRegister.УБТ_ОбработанныеСообщенияБотовTelegram.StandardCommand.OpenList</commands>
       <commands>InformationRegister.УБТ_ОдноразовыеПаролиАвторизацииЧатовTelegram.StandardCommand.OpenList</commands>
-          <commands>Catalog.ПДМ_УБТ_ВариантыОтчетов.StandardCommand.OpenList</commands>
-      <commands>DataProcessor.ПДМ_УБТ_НастройкаВариантовОтчетов.StandardCommand.Open</commands>
+          <commands>Catalog.УБТ_ВариантыОтчетов.StandardCommand.OpenList</commands>
+      <commands>DataProcessor.УБТ_НастройкаВариантовОтчетов.StandardCommand.Open</commands>
     </orderFragments>
   </commandsOrder>
 </cmi:CommandInterface>

@@ -103,14 +103,14 @@
   <informationRegisters>InformationRegister.УБТ_КомандыБотовTelegram</informationRegisters>
   <informationRegisters>InformationRegister.УБТ_ОбработанныеСообщенияБотовTelegram</informationRegisters>
   <informationRegisters>InformationRegister.УБТ_ОдноразовыеПаролиАвторизацииЧатовTelegram</informationRegisters>
-  <commonModules>CommonModule.ПДМ_УБТ_ОбщиеФункции</commonModules>
-  <commonModules>CommonModule.ПДМ_УБТ_РегламентныеЗадания</commonModules>
-  <commonModules>CommonModule.ПДМ_УБТ_ЗащищенноеХранилище</commonModules>
-  <commonModules>CommonModule.ПДМ_УБТ_Права</commonModules>
-  <commonModules>CommonModule.ПДМ_УБТ_Отчеты</commonModules>
-  <roles>Role.ПДМ_УБТ_АдминистраторКонсоли</roles>
-  <catalogs>Catalog.ПДМ_УБТ_ВариантыОтчетов</catalogs>
-  <enums>Enum.ПДМ_УБТ_ФорматыФайлов</enums>
-  <informationRegisters>InformationRegister.ПДМ_УБТ_ЗащищенныеДанныеБотов</informationRegisters>
-  <informationRegisters>InformationRegister.ПДМ_УБТ_Настройки</informationRegisters>
+  <commonModules>CommonModule.УБТ_ОбщиеФункции</commonModules>
+  <commonModules>CommonModule.УБТ_РегламентныеЗадания</commonModules>
+  <commonModules>CommonModule.УБТ_ЗащищенноеХранилище</commonModules>
+  <commonModules>CommonModule.УБТ_Права</commonModules>
+  <commonModules>CommonModule.УБТ_Отчеты</commonModules>
+  <roles>Role.УБТ_АдминистраторКонсоли</roles>
+  <catalogs>Catalog.УБТ_ВариантыОтчетов</catalogs>
+  <enums>Enum.УБТ_ФорматыФайлов</enums>
+  <informationRegisters>InformationRegister.УБТ_ЗащищенныеДанныеБотов</informationRegisters>
+  <informationRegisters>InformationRegister.УБТ_Настройки</informationRegisters>
 </mdclass:Configuration>

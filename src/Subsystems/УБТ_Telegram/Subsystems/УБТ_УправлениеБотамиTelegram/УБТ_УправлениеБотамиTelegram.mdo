@@ -24,5 +24,5 @@
   <content>Catalog.УБТ_СценарииБотовTelegram</content>
   <content>Catalog.УБТ_ЧатыTelegram</content>
   <parentSubsystem>Subsystem.УБТ_Telegram</parentSubsystem>
-  <content>Catalog.ПДМ_УБТ_ВариантыОтчетов</content>
+  <content>Catalog.УБТ_ВариантыОтчетов</content>
 </mdclass:Subsystem>
