@@ -103,7 +103,7 @@
   <informationRegisters>InformationRegister.УБТ_КомандыБотовTelegram</informationRegisters>
   <informationRegisters>InformationRegister.УБТ_ОбработанныеСообщенияБотовTelegram</informationRegisters>
   <informationRegisters>InformationRegister.УБТ_ОдноразовыеПаролиАвторизацииЧатовTelegram</informationRegisters>
-  <commonModules>CommonModule.УБТ_ОбщиеФункции</commonModules>
+  <commonModules>CommonModule.УБТ_ОбщиеФункцииКлиентСервер</commonModules>
   <commonModules>CommonModule.УБТ_РегламентныеЗадания</commonModules>
   <commonModules>CommonModule.УБТ_ЗащищенноеХранилище</commonModules>
   <commonModules>CommonModule.УБТ_Права</commonModules>

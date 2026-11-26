@@ -1,2 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a17b0000-0000-4000-8000-0000000000c7"><name>УБТ_ЗащищенноеХранилище</name><synonym><key>ru</key><value>УБТ_ЗащищенноеХранилище</value></synonym><server>true</server><externalConnection>false</externalConnection></mdclass:CommonModule>
+<?xml version="1.0" encoding="utf-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a17b0000-0000-4000-8000-0000000000c7"><name>УБТ_ЗащищенноеХранилище</name><synonym><key>ru</key><value>УБТ_ЗащищенноеХранилище</value></synonym><clientOrdinaryApplication xmlns="http://g5.1c.ru/v8/dt/metadata/mdclass">true</clientOrdinaryApplication><server>true</server><externalConnection>true</externalConnection></mdclass:CommonModule>

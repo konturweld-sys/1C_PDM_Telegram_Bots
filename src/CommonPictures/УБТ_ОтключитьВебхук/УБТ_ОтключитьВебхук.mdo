@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f3fc2058-a3d4-4b9d-a0bf-cea7c5efecf0">
   <name>УБТ_ОтключитьВебхук</name>
-  <synonym>
-    <key>az</key>
-    <value>Vebxuk söndürmək</value>
-  </synonym>
+
   <synonym>
     <key>en</key>
     <value>Turn off webhook</value>

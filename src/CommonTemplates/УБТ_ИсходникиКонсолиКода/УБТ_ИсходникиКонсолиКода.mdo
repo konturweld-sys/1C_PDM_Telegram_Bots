@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e6f773f8-6c63-408d-94d7-45570ead7939">
   <name>УБТ_ИсходникиКонсолиКода</name>
-  <synonym>
-    <key>az</key>
-    <value>Konsol kodu mənbələri</value>
-  </synonym>
+
   <synonym>
     <key>en</key>
     <value>Code console sources</value>

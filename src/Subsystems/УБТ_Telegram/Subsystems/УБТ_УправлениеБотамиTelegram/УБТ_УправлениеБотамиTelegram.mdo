@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e73d61e4-c55d-4c15-8598-622c2d76aad1">
   <name>УБТ_УправлениеБотамиTelegram</name>
-  <synonym>
-    <key>az</key>
-    <value>Telegram botların idarə edilməsi</value>
-  </synonym>
+
   <synonym>
     <key>en</key>
     <value>Telegram bot management</value>
